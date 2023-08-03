@@ -67,7 +67,6 @@ font-family: "Times New Roman", Times, serif;}
 article h3{ 
   float: right;
   margin-right: 10px;
-  color: white;
 }
 
 article p{
@@ -151,7 +150,7 @@ color: white;
         </div>
       </div>
       <div class="carousel-item">
-        <img src="MakkahGate.jpg" alt="Photo" class="carousel-img" >
+        <img src="mj.jpg" alt="Photo" class="carousel-img" >
         <div class="carousel-caption">
           <h3></h3>
           <p>رسمة للمعلم التاريخي لبوابة مكة المكرمة</p>
@@ -260,7 +259,7 @@ color: white;
       </p>
 
       <p class ="ends"><a href="https://www.makkah.gov.sa/"
-          target="_blank"></a> جميع الحقوق محفوظة لإمارة منطقة مكة المكرمة 2023 © </p>
+          target="_blank"></a> جميع الحقوق محفوظة لإمارة منطقة مكة المكرمة 2021 © </p>
     </div>
   </footer>
 
